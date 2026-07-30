@@ -9,12 +9,8 @@
 
   <br/><br/>
 
-  <!-- 2. GitHub Streak Stats (Theme-Aware) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Manindra-babu&theme=dark&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Manindra-babu&theme=light&hide_border=true&stroke=0891B2&ring=7C3AED&fire=10B981&currStreakLabel=0891B2&sideLabels=64748B&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&titleColor=0891B2">
-    <img width="100%" src="https://streak-stats.demolab.com/?user=Manindra-babu&theme=dark&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="GitHub Streak Stats" />
-  </picture>
+  <!-- 2. GitHub Streak Stats -->
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Manindra-babu&theme=dark&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="GitHub Streak Stats" />
 
   <br/><br/>
 

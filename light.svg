@@ -14,11 +14,6 @@
 <circle cx="64" cy="20" r="6" fill="#27c93f"/>
 <text x="590.0" y="25" text-anchor="middle" font-family="monospace" font-size="13" fill="#8b93a8">profile.sh --live</text>
 
-<!-- LIVE badge -->
-<circle cx="1050" cy="20" r="4" fill="#ef4444">
-  <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
-</circle>
-<text x="1062" y="24" font-family="monospace" font-size="12" fill="#ef4444">LIVE</text>
 
 <!-- handle pill -->
 <rect x="1080" y="10" width="84" height="20" rx="10" fill="#10B981" fill-opacity="0.15" stroke="#10B981" stroke-opacity="0.5"/>
