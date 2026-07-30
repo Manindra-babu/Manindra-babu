@@ -30,8 +30,8 @@
   <br/><br/>
 
   <!-- 2. GitHub Overview Stats & Most Used Languages -->
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Manindra-babu&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Manindra-babu&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manindra-babu&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manindra-babu&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Top Languages" />
 
   <br/><br/>
 
@@ -45,10 +45,10 @@
   <br/><br/>
 
   <!-- 4. Featured Projects / Pinned Repositories -->
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Manindra-babu&repo=-portfolio&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="-portfolio" />
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Manindra-babu&repo=Floras-AI&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Floras-AI" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=-portfolio&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="-portfolio" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=Floras-AI&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Floras-AI" />
   <br/>
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Manindra-babu&repo=Amantra&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Amantra" />
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Manindra-babu&repo=Decision-IQ&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Decision-IQ" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=Amantra&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Amantra" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=Decision-IQ&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Decision-IQ" />
 
 </div>
