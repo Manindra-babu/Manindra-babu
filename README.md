@@ -9,13 +9,13 @@
 
   <br/><br/>
 
-  <!-- GitHub Streak Stats -->
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Manindra-babu&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="GitHub Streak Stats" />
+  <!-- GitHub Contribution Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manindra-babu&theme=react-dark" alt="GitHub Contribution Graph" />
 
   <br/><br/>
 
-  <!-- GitHub Overview Stats & Most Used Languages -->
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Manindra-babu&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Manindra-babu&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Top Languages" />
+  <!-- GitHub Overview Stats & Language Breakdown -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manindra-babu&theme=github_dark" alt="GitHub Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manindra-babu&theme=github_dark" alt="Languages Breakdown" />
 
 </div>
