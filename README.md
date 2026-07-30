@@ -9,6 +9,21 @@
 
   <br/><br/>
 
+  <!-- Social Badges -->
+  <a href="https://www.linkedin.com/in/manindra-chowdhary-198747333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:manindrachowdhary1715@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Manindra-babu">
+    <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
   <!-- GitHub Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake-dark.svg">
