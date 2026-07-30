@@ -29,9 +29,17 @@
 
   <br/><br/>
 
-  <!-- 2. GitHub Overview Stats & Most Used Languages -->
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manindra-babu&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manindra-babu&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Top Languages" />
+  <!-- 2. GitHub Overview Stats & Most Used Languages (Aligned Table) -->
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manindra-babu&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manindra-babu&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
   <br/><br/>
 
@@ -44,11 +52,24 @@
 
   <br/><br/>
 
-  <!-- 4. Featured Projects / Pinned Repositories -->
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=-portfolio&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="-portfolio" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=Floras-AI&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Floras-AI" />
-  <br/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=Amantra&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Amantra" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=Decision-IQ&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Decision-IQ" />
+  <!-- 4. Featured Projects / Pinned Repositories (Equalized 2x2 Grid) -->
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=-portfolio&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&description_lines_count=2" alt="-portfolio" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=Floras-AI&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&description_lines_count=2" alt="Floras-AI" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=Amantra&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&description_lines_count=2" alt="Amantra" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Manindra-babu&repo=Decision-IQ&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&description_lines_count=2" alt="Decision-IQ" />
+      </td>
+    </tr>
+  </table>
 
 </div>
