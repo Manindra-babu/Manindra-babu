@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Theme-aware Header Banner (dark.svg / light.svg) -->
+  <!-- Theme-aware Header Banner -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="light.svg">
@@ -24,7 +24,18 @@
 
   <br/><br/>
 
-  <!-- GitHub Contribution Snake Animation -->
+  <!-- 1. GitHub Streak Stats -->
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Manindra-babu&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE" alt="GitHub Streak Stats" />
+
+  <br/><br/>
+
+  <!-- 2. GitHub Overview Stats & Most Used Languages -->
+  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Manindra-babu&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Manindra-babu&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- 3. GitHub Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake.svg">
@@ -33,8 +44,11 @@
 
   <br/><br/>
 
-  <!-- GitHub Overview Stats & Language Breakdown -->
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manindra-babu&theme=github_dark" alt="GitHub Profile Details" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manindra-babu&theme=github_dark" alt="Languages Breakdown" />
+  <!-- 4. Featured Projects / Pinned Repositories -->
+  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Manindra-babu&repo=-portfolio&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="-portfolio" />
+  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Manindra-babu&repo=Floras-AI&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Floras-AI" />
+  <br/>
+  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Manindra-babu&repo=Amantra&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Amantra" />
+  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Manindra-babu&repo=Decision-IQ&theme=dark&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="Decision-IQ" />
 
 </div>
