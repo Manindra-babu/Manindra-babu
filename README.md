@@ -9,8 +9,12 @@
 
   <br/><br/>
 
-  <!-- GitHub Contribution Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manindra-babu&theme=react-dark" alt="GitHub Contribution Graph" />
+  <!-- GitHub Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake-dark.svg" width="100%" />
+  </picture>
 
   <br/><br/>
 
