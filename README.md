@@ -20,21 +20,29 @@
 
   <br/>
 
-  <!-- 2. GitHub Stats & Activity Overview (Theme-Aware & Escaped HTML) -->
+  <!-- 2. GitHub Profile Activity Details (100% Reliable Uptime) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Manindra-babu&amp;theme=dark&amp;hide_border=true&amp;background=0A101F&amp;stroke=22D3EE&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B&amp;titleColor=22D3EE">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Manindra-babu&amp;theme=default&amp;hide_border=true&amp;background=F8FAFC&amp;stroke=0891B2&amp;ring=7C3AED&amp;fire=10B981&amp;currStreakLabel=0891B2&amp;sideLabels=334155&amp;currStreakNum=0F172A&amp;sideNums=0F172A&amp;dates=64748B&amp;titleColor=0891B2">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manindra-babu&amp;theme=dark&amp;hide_border=true&amp;background=0A101F&amp;stroke=22D3EE&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakLabel=22D3EE&amp;sideLabels=94A3B8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;dates=64748B&amp;titleColor=22D3EE" alt="GitHub Streak Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manindra-babu&theme=2077">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manindra-babu&theme=default">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manindra-babu&theme=2077" alt="GitHub Profile Details" />
   </picture>
 
   <br/><br/>
 
-  <!-- 3. GitHub Activity Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Manindra-babu&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;color=22D3EE&amp;line=10B981&amp;point=A78BFA">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Manindra-babu&amp;theme=github-light&amp;hide_border=true&amp;area=true&amp;color=0891B2&amp;line=10B981&amp;point=7C3AED">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manindra-babu&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;color=22D3EE&amp;line=10B981&amp;point=A78BFA" alt="GitHub Activity Graph" />
-  </picture>
+  <!-- 3. GitHub Activity & Productivity Metrics -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manindra-babu&theme=2077">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manindra-babu&theme=default">
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manindra-babu&theme=2077" alt="GitHub Stats Card" />
+    </picture>
+    &nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manindra-babu&theme=2077">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manindra-babu&theme=default">
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manindra-babu&theme=2077" alt="Most Committed Language" />
+    </picture>
+  </p>
 
   <br/><br/>
 
