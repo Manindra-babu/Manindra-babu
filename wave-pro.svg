@@ -1,0 +1,110 @@
+<svg width="1180" height="190" viewBox="0 0 1180 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Professional Slate Gradient -->
+    <linearGradient id="proBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0B0F19"/>
+    </linearGradient>
+
+    <!-- Refined Tech Accent Border -->
+    <linearGradient id="proBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <!-- Subtle Wave Accent Line -->
+    <linearGradient id="waveLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.3"/>
+      <stop offset="40%" stop-color="#818CF8" stop-opacity="0.5"/>
+      <stop offset="80%" stop-color="#F43F5E" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.1"/>
+    </linearGradient>
+
+    <!-- Professional Name Highlight Gradient -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .pro-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif;
+      font-size: 30px;
+      font-weight: 700;
+      fill: #F8FAFC;
+      letter-spacing: -0.3px;
+    }
+    .pro-name {
+      font-weight: 800;
+      fill: url(#nameGrad);
+    }
+    .pro-sub {
+      font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace;
+      font-size: 13.5px;
+      font-weight: 500;
+      fill: #94A3B8;
+      letter-spacing: 0.2px;
+    }
+    .badge-label {
+      font-family: 'Fira Code', 'Cascadia Code', monospace;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+    }
+  </style>
+
+  <!-- Container Box: Dark Obsidian Glass (Matches Main Profile Card) -->
+  <rect width="1180" height="190" rx="12" fill="url(#proBgGrad)"/>
+  <rect x="1" y="1" width="1178" height="188" rx="11" fill="none" stroke="url(#proBorder)" stroke-width="1.5"/>
+
+  <!-- Sleek Aesthetic Wave Curves -->
+  <path d="M 0 35 Q 300 65 600 25 T 1180 30 L 1180 0 L 0 0 Z" fill="url(#waveLine)"/>
+  <path d="M 0 170 Q 350 145 700 175 T 1180 160 L 1180 190 L 0 190 Z" fill="url(#waveLine)" opacity="0.4"/>
+
+  <!-- Center Greeting Content -->
+  <g transform="translate(590, 75)" text-anchor="middle">
+    <!-- Main Headline -->
+    <text x="0" y="0" class="pro-title">
+      👋 Hi, I'm <tspan class="pro-name">Manindra Babu</tspan>
+    </text>
+
+    <!-- Subtitle / Bio -->
+    <text x="0" y="30" class="pro-sub">
+      Full-Stack Developer &amp; AI/ML Engineer • Crafting Intelligent Systems &amp; Scalable Web Tech
+    </text>
+  </g>
+
+  <!-- Professional Badge Row -->
+  <g transform="translate(590, 150)">
+    <!-- Pill 1: AI & ML Systems -->
+    <g transform="translate(-330, 0)">
+      <rect x="-85" y="-14" width="170" height="28" rx="6" fill="#1E1B4B" fill-opacity="0.7" stroke="#6366F1" stroke-opacity="0.6"/>
+      <circle cx="-68" cy="0" r="3" fill="#818CF8"/>
+      <text x="-58" y="4" fill="#C7D2FE" class="badge-label">AI / ML Systems</text>
+    </g>
+
+    <!-- Pill 2: Full-Stack Web -->
+    <g transform="translate(-110, 0)">
+      <rect x="-85" y="-14" width="170" height="28" rx="6" fill="#0C4A6E" fill-opacity="0.6" stroke="#0284C7" stroke-opacity="0.6"/>
+      <circle cx="-68" cy="0" r="3" fill="#38BDF8"/>
+      <text x="-58" y="4" fill="#BAE6FD" class="badge-label">Full-Stack Web</text>
+    </g>
+
+    <!-- Pill 3: Multi-Agent & RAG -->
+    <g transform="translate(115, 0)">
+      <rect x="-95" y="-14" width="190" height="28" rx="6" fill="#064E3B" fill-opacity="0.6" stroke="#059669" stroke-opacity="0.6"/>
+      <circle cx="-78" cy="0" r="3" fill="#34D399"/>
+      <text x="-68" y="4" fill="#A7F3D0" class="badge-label">Multi-Agent &amp; RAG</text>
+    </g>
+
+    <!-- Pill 4: Cloud & Automations -->
+    <g transform="translate(335, 0)">
+      <rect x="-80" y="-14" width="160" height="28" rx="6" fill="#451A03" fill-opacity="0.6" stroke="#D97706" stroke-opacity="0.6"/>
+      <circle cx="-63" cy="0" r="3" fill="#FBBF24"/>
+      <text x="-53" y="4" fill="#FDE68A" class="badge-label">Automations</text>
+    </g>
+  </g>
+</svg>
