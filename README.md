@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Greeting Header (Self-Hosted & Theme-Aware) -->
-  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/greeting.svg" alt="Hi there, I'm Manindra Babu! 👋" width="650" />
+  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/greeting-amber.svg" alt="Hi there, I'm Manindra Babu! 👋" width="650" />
 
   <br/><br/>
 
