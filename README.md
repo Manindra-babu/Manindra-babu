@@ -5,8 +5,8 @@
 
   <br/><br/>
 
-  <!-- OPTION 2: Glowing Neon Horizon Wave Banner -->
-  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/wave-greeting.svg" alt="Option 2: Glowing Wave Greeting Banner" width="100%" />
+  <!-- OPTION 2: Glowing Neon Aurora Wave Banner -->
+  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/wave-aesthetic.svg" alt="Option 2: Glowing Wave Greeting Banner" width="100%" />
 
   <br/><br/>
 
