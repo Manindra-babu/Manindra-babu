@@ -1,12 +1,7 @@
 <div align="center">
 
-  <!-- OPTION 1: Mini Terminal HUD Greeting Header -->
-  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/hud-greeting.svg" alt="Option 1: Terminal Greeting Header" width="100%" />
-
-  <br/><br/>
-
-  <!-- OPTION 2: Professional Tech Wave Banner -->
-  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/wave-pro.svg" alt="Option 2: Professional Tech Wave Banner" width="100%" />
+  <!-- Professional Tech Wave Greeting Header -->
+  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/wave-pro.svg" alt="Manindra Babu - Profile Greeting" width="100%" />
 
   <br/><br/>
 
