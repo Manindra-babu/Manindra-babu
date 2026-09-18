@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- Typing SVG Greeting -->
-  <a href="https://github.com/Manindra-babu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Manindra+Babu!+👋;Full-Stack+Developer+%26+AI%2FML+Engineer;Welcome+to+my+GitHub+Profile+🚀" alt="Typing SVG" />
-  </a>
+  <!-- Animated Greeting Header (Self-Hosted & Theme-Aware) -->
+  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/greeting.svg" alt="Hi there, I'm Manindra Babu! 👋" width="650" />
 
   <br/><br/>
 

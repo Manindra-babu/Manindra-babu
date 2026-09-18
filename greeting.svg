@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 60" width="850" height="60">
+  <style>
+    @keyframes cycleText1 {
+      0%, 28% { opacity: 1; transform: translateY(0px); }
+      31%, 100% { opacity: 0; transform: translateY(-4px); }
+    }
+    @keyframes cycleText2 {
+      0%, 31% { opacity: 0; transform: translateY(4px); }
+      34%, 61% { opacity: 1; transform: translateY(0px); }
+      64%, 100% { opacity: 0; transform: translateY(-4px); }
+    }
+    @keyframes cycleText3 {
+      0%, 64% { opacity: 0; transform: translateY(4px); }
+      67%, 95% { opacity: 1; transform: translateY(0px); }
+      98%, 100% { opacity: 0; transform: translateY(-4px); }
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    .text {
+      font-family: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', 'Segoe UI', monospace;
+      font-size: 24px;
+      font-weight: 700;
+      text-anchor: middle;
+      dominant-baseline: central;
+    }
+    .cursor {
+      font-family: 'Fira Code', monospace;
+      font-size: 24px;
+      font-weight: 700;
+      animation: blink 0.8s infinite;
+    }
+    .t1 { animation: cycleText1 9s infinite; }
+    .t2 { animation: cycleText2 9s infinite; }
+    .t3 { animation: cycleText3 9s infinite; }
+
+    /* Theme colors */
+    .color-name { fill: #A78BFA; }
+    .color-role { fill: #22D3EE; }
+    .color-focus { fill: #A78BFA; }
+    .color-cursor { fill: #22D3EE; }
+
+    @media (prefers-color-scheme: light) {
+      .color-name { fill: #7C3AED; }
+      .color-role { fill: #0891B2; }
+      .color-focus { fill: #7C3AED; }
+      .color-cursor { fill: #0891B2; }
+    }
+  </style>
+
+  <!-- Line 1 -->
+  <g class="t1">
+    <text x="420" y="30" class="text color-name">Hi there, I'm Manindra Babu! 👋</text>
+    <text x="640" y="28" class="cursor color-cursor">|</text>
+  </g>
+
+  <!-- Line 2 -->
+  <g class="t2">
+    <text x="420" y="30" class="text color-role">Full-Stack Developer &amp; AI/ML Engineer 🚀</text>
+    <text x="700" y="28" class="cursor color-cursor">|</text>
+  </g>
+
+  <!-- Line 3 -->
+  <g class="t3">
+    <text x="420" y="30" class="text color-focus">Welcome to my GitHub Profile ⚡</text>
+    <text x="635" y="28" class="cursor color-cursor">|</text>
+  </g>
+</svg>
