@@ -25,29 +25,12 @@
 
   <br/>
 
-  <!-- 2. GitHub Profile Activity Details (100% Reliable Uptime) -->
+  <!-- 2. GitHub Activity & Streak Stats (100% Reliable & Fast) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manindra-babu&theme=2077">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manindra-babu&theme=default">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manindra-babu&theme=2077" alt="GitHub Profile Details" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Manindra-babu&theme=tokyonight&border_radius=10&background=0A101F&border=0891B2">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Manindra-babu&theme=default&border_radius=10">
+    <img width="100%" src="https://streak-stats.demolab.com?user=Manindra-babu&theme=tokyonight&border_radius=10&background=0A101F&border=0891B2" alt="GitHub Streak Stats" />
   </picture>
-
-  <br/><br/>
-
-  <!-- 3. GitHub Activity & Productivity Metrics -->
-  <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manindra-babu&theme=2077">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manindra-babu&theme=default">
-      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manindra-babu&theme=2077" alt="GitHub Stats Card" />
-    </picture>
-    &nbsp;
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manindra-babu&theme=2077">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manindra-babu&theme=default">
-      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manindra-babu&theme=2077" alt="Most Committed Language" />
-    </picture>
-  </p>
 
   <br/><br/>
 
