@@ -1,7 +1,12 @@
 <div align="center">
 
-  <!-- Interactive Mini Terminal HUD Greeting Header -->
-  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/hud-greeting.svg" alt="Terminal Greeting Header" width="100%" />
+  <!-- OPTION 1: Mini Terminal HUD Greeting Header -->
+  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/hud-greeting.svg" alt="Option 1: Terminal Greeting Header" width="100%" />
+
+  <br/><br/>
+
+  <!-- OPTION 2: Glowing Neon Horizon Wave Banner -->
+  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/wave-greeting.svg" alt="Option 2: Glowing Wave Greeting Banner" width="100%" />
 
   <br/><br/>
 

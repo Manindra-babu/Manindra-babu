@@ -1,0 +1,102 @@
+<svg width="1180" height="200" viewBox="0 0 1180 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Wave Gradient -->
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="35%" stop-color="#FB7185"/>
+      <stop offset="70%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+
+    <!-- Glowing Text Gradient -->
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FBBF24"/>
+      <stop offset="50%" stop-color="#FB7185"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <!-- Card Background Gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E1B4B" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0A101F" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes waveFlow {
+      0% { transform: translateX(0); }
+      50% { transform: translateX(-30px); }
+      100% { transform: translateX(0); }
+    }
+    @keyframes shimmer {
+      0%, 100% { opacity: 0.9; }
+      50% { opacity: 1; filter: drop-shadow(0 0 8px rgba(251, 113, 133, 0.6)); }
+    }
+    .wave-bg { fill: #0A101F; }
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 34px;
+      font-weight: 800;
+      fill: url(#titleGrad);
+      letter-spacing: -0.5px;
+      animation: shimmer 4s infinite ease-in-out;
+    }
+    .sub-text {
+      font-family: 'Fira Code', 'Cascadia Code', monospace;
+      font-size: 15px;
+      font-weight: 500;
+      fill: #CBD5E1;
+    }
+    .badge-text {
+      font-family: 'Fira Code', monospace;
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    @media (prefers-color-scheme: light) {
+      .wave-bg { fill: #F8FAFC; }
+      .sub-text { fill: #475569; }
+    }
+  </style>
+
+  <!-- Container Box -->
+  <rect width="1180" height="200" rx="16" class="wave-bg"/>
+  <rect x="1" y="1" width="1178" height="198" rx="15" fill="none" stroke="url(#waveGrad)" stroke-width="2"/>
+
+  <!-- Top Wave Graphic Strip -->
+  <path d="M 0 45 C 200 10, 400 65, 600 30 C 800 -5, 1000 50, 1180 20 L 1180 0 L 0 0 Z" fill="url(#waveGrad)" opacity="0.25"/>
+  <path d="M 0 35 C 300 55, 600 10, 900 45 C 1050 60, 1120 25, 1180 35 L 1180 0 L 0 0 Z" fill="url(#waveGrad)" opacity="0.4"/>
+
+  <!-- Main Greeting Centerpiece -->
+  <g transform="translate(590, 80)" text-anchor="middle">
+    <text x="0" y="0" class="title-text">👋 Hello, World! I'm Manindra Babu</text>
+    <text x="0" y="32" class="sub-text">⚡ Full-Stack Developer &amp; AI/ML Engineer | Building Intelligent Systems</text>
+  </g>
+
+  <!-- Badges / Pill Tags -->
+  <g transform="translate(590, 158)">
+    <!-- Pill 1: AI / ML -->
+    <g transform="translate(-320, 0)">
+      <rect x="-75" y="-14" width="150" height="28" rx="14" fill="#8B5CF6" fill-opacity="0.18" stroke="#8B5CF6" stroke-opacity="0.6"/>
+      <text x="0" y="4" text-anchor="middle" fill="#C4B5FD" class="badge-text">🤖 AI &amp; ML Apps</text>
+    </g>
+
+    <!-- Pill 2: Full Stack -->
+    <g transform="translate(-110, 0)">
+      <rect x="-80" y="-14" width="160" height="28" rx="14" fill="#F59E0B" fill-opacity="0.18" stroke="#F59E0B" stroke-opacity="0.6"/>
+      <text x="0" y="4" text-anchor="middle" fill="#FDE68A" class="badge-text">⚡ Full-Stack Web</text>
+    </g>
+
+    <!-- Pill 3: Intelligent Automations -->
+    <g transform="translate(115, 0)">
+      <rect x="-95" y="-14" width="190" height="28" rx="14" fill="#FB7185" fill-opacity="0.18" stroke="#FB7185" stroke-opacity="0.6"/>
+      <text x="0" y="4" text-anchor="middle" fill="#FECDD3" class="badge-text">🚀 Multi-Agent / RAG</text>
+    </g>
+
+    <!-- Pill 4: Open Source -->
+    <g transform="translate(325, 0)">
+      <rect x="-70" y="-14" width="140" height="28" rx="14" fill="#06B6D4" fill-opacity="0.18" stroke="#06B6D4" stroke-opacity="0.6"/>
+      <text x="0" y="4" text-anchor="middle" fill="#A5F3FC" class="badge-text">🌐 Open Source</text>
+    </g>
+  </g>
+</svg>
