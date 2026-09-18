@@ -35,17 +35,17 @@
     .t2 { animation: cycleText2 9s infinite; }
     .t3 { animation: cycleText3 9s infinite; }
 
-    /* Theme colors */
-    .color-name { fill: #A78BFA; }
-    .color-role { fill: #22D3EE; }
-    .color-focus { fill: #A78BFA; }
-    .color-cursor { fill: #22D3EE; }
+    /* Sunset Amber / Coral palette */
+    .color-name { fill: #F59E0B; }
+    .color-role { fill: #FB7185; }
+    .color-focus { fill: #F97316; }
+    .color-cursor { fill: #F59E0B; }
 
     @media (prefers-color-scheme: light) {
-      .color-name { fill: #7C3AED; }
-      .color-role { fill: #0891B2; }
-      .color-focus { fill: #7C3AED; }
-      .color-cursor { fill: #0891B2; }
+      .color-name { fill: #D97706; }
+      .color-role { fill: #E11D48; }
+      .color-focus { fill: #EA580C; }
+      .color-cursor { fill: #D97706; }
     }
   </style>
 
