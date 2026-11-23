@@ -14,27 +14,38 @@
 
   <br/><br/>
 
-  <!-- Profile Visitor Counter & Highlights -->
+  <!-- Profile Visitor Counter & Status Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Manindra-babu&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     &nbsp;
     <img src="https://img.shields.io/badge/Role-Full--Stack%20%26%20AI%2FML-10B981?style=for-the-badge&logoColor=white" alt="Role" />
     &nbsp;
-    <img src="https://img.shields.io/badge/Focus-LLMs%2C%20RAG%20%26%20Agents-7C3AED?style=for-the-badge&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-Agents%2C%20RAG%20%26%20Systems-7C3AED?style=for-the-badge&logoColor=white" alt="Focus" />
+  </p>
+
+</div>
+
+<br/>
+
+### 🔭 Focus & Engineering Philosophy
+- 🤖 **Autonomous Multi-Agent Systems:** Designing resilient orchestration graphs with LangGraph, human-in-the-loop review, and self-correcting agent chains.
+- 🛡️ **Verifiable RAG & Evaluation:** Grounding LLM outputs with citation defense, source truthfulness validation, and safety benchmarks (FEVER / LIAR).
+- ⚡ **Production Systems:** Engineering end-to-end applications from PyTorch transformer cores and FastAPI microservices to high-performance React 19 / Next.js frontends.
+
+<br/>
+
+<div align="center">
+
+  <!-- GitHub Metrics Grid: Streak Stats & Top Languages -->
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Manindra-babu&theme=tokyonight&border_radius=10&background=0A101F&border=0891B2" alt="GitHub Streak Stats" height="195" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manindra-babu&layout=compact&theme=tokyonight&border_radius=10&bg_color=0A101F&border_color=0891B2" alt="Top Languages" height="195" />
   </p>
 
   <br/>
 
-  <!-- 2. GitHub Activity & Streak Stats (100% Reliable & Fast) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Manindra-babu&theme=tokyonight&border_radius=10&background=0A101F&border=0891B2">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Manindra-babu&theme=default&border_radius=10">
-    <img width="100%" src="https://streak-stats.demolab.com?user=Manindra-babu&theme=tokyonight&border_radius=10&background=0A101F&border=0891B2" alt="GitHub Streak Stats" />
-  </picture>
-
-  <br/><br/>
-
-  <!-- 4. Tech Stack & Skills -->
+  <!-- Tech Stack & Core Competencies -->
   <h3>⚡ Tech Stack & Core Competencies</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -42,12 +53,12 @@
     <img src="https://img.shields.io/badge/LangGraph-1C2C5B?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
     <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=datadog&logoColor=white" alt="ChromaDB" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
     <br/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+    <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <br/>
@@ -58,24 +69,50 @@
 
   <br/><br/>
 
-  <!-- 5. GitHub Contribution Snake Animation (Theme-Aware & Fixed Palette) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake-dark.svg" width="100%" />
-  </picture>
-
-  <br/><br/>
-
-  <!-- 6. Featured Projects Grid (Categorized & Up-to-Date) -->
+  <!-- Featured Projects & Flagship Systems -->
   <h3>🚀 Featured Projects & Systems</h3>
 
   <table border="0" width="100%">
-    <!-- Row 1: AI Agents & RAG -->
+    <!-- Row 1: Production Ecommerce & Career AI -->
     <tr>
       <td width="50%" align="left" valign="top">
+        <h4><a href="https://github.com/Manindra-babu/Kintsu">🛡️ Kintsu (金継ぎ)</a></h4>
+        <p>Intelligent refund-decision layer for Shopify & WooCommerce stores. Automates return disputes, damage inspection, and policy enforcement with rulebooks and visual condition checks.</p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+          <img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        </p>
+        <p><a href="https://kintsu-sj4b.onrender.com/" target="_blank">🌐 Live App</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/Kintsu" target="_blank">💻 Repository</a></p>
+      </td>
+      <td width="50%" align="left" valign="top">
+        <h4><a href="https://github.com/Manindra-babu/Rolecraft">🎯 Rolecraft (ResumeIQ)</a></h4>
+        <p>Evidence-based AI resume intelligence platform with automated claim verification, public GitHub profile analysis, ATS skill-gap roadmaps, and in-place .docx layout preservation.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/OOXML-0078D4?style=flat-square" alt="OOXML" />
+          <img src="https://img.shields.io/badge/Claim_Validator-10B981?style=flat-square" alt="Claim Validator" />
+        </p>
+        <p><a href="https://rolecraft-eta.vercel.app" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/Rolecraft" target="_blank">💻 Repository</a></p>
+      </td>
+    </tr>
+
+    <!-- Row 2: Customer AI & Autonomous Research -->
+    <tr>
+      <td width="50%" align="left" valign="top">
+        <h4><a href="https://github.com/Manindra-babu/ReplyMuse">💬 ReplyMuse</a></h4>
+        <p>Privacy-first AI review reply studio crafted for cafes, restaurants, clinics, and indie businesses. Crafts personalized, on-brand responses to stinging 1-star reviews in 3 seconds.</p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        </p>
+        <p><a href="https://replymuse.vercel.app" target="_blank">🌐 Live Application</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/ReplyMuse" target="_blank">💻 Repository</a></p>
+      </td>
+      <td width="50%" align="left" valign="top">
         <h4><a href="https://github.com/Manindra-babu/Research-Agent">🤖 Research-Agent</a></h4>
-        <p>Autonomous Multi-Agent Research System built with LangGraph, Groq API, DuckDuckGo Search, ChromaDB vector storage, and interactive Streamlit UI.</p>
+        <p>Autonomous Multi-Agent Research System built with LangGraph, Groq API, DuckDuckGo Search, ChromaDB vector storage, and an interactive intelligence-gathering UI.</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
           <img src="https://img.shields.io/badge/LangGraph-1C2C5B?style=flat-square" alt="LangGraph" />
@@ -84,23 +121,38 @@
         </p>
         <p><a href="https://github.com/Manindra-babu/Research-Agent" target="_blank">💻 Repository</a></p>
       </td>
+    </tr>
+
+    <!-- Row 3: Trust & Safety, Verifiable RAG -->
+    <tr>
+      <td width="50%" align="left" valign="top">
+        <h4><a href="https://github.com/Manindra-babu/Trust-IQ">⚖️ Trust-IQ</a></h4>
+        <p>Unified AI Trust & Safety Workbench — Classical ML for evidence verification (FEVER), misinformation detection (LIAR), toxicity analysis (Jigsaw), and length-aware fairness.</p>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Safety_Eval-EF4444?style=flat-square" alt="Safety Eval" />
+          <img src="https://img.shields.io/badge/ML_Benchmarking-8B5CF6?style=flat-square" alt="ML Benchmarking" />
+        </p>
+        <p><a href="https://github.com/Manindra-babu/Trust-IQ" target="_blank">💻 Repository</a></p>
+      </td>
       <td width="50%" align="left" valign="top">
         <h4><a href="https://github.com/Manindra-babu/Knowledge-Base-RAG">🧠 Knowledge-Base-RAG (DocuMind)</a></h4>
-        <p>Intelligent RAG web application that lets you chat with your private documents using Llama 3 & vector embeddings in real time.</p>
+        <p>Intelligent RAG web application that lets you chat with your private documents (PDF, DOCX, TXT) with precise source citations using Groq LLaMA 3.3 and vector search.</p>
         <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/Llama_3-0467DF?style=flat-square" alt="Llama 3" />
+          <img src="https://img.shields.io/badge/LLaMA_3.3-0467DF?style=flat-square" alt="LLaMA 3.3" />
           <img src="https://img.shields.io/badge/Groq-FF6C37?style=flat-square" alt="Groq" />
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         </p>
         <p><a href="https://knowledge-base-rag-3lfy.vercel.app/" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/Knowledge-Base-RAG" target="_blank">💻 Repository</a></p>
       </td>
     </tr>
-    <!-- Row 2: LLM Architecture & Vision -->
+
+    <!-- Row 4: Foundation Models & Real-Time Data Engineering -->
     <tr>
       <td width="50%" align="left" valign="top">
         <h4><a href="https://github.com/Manindra-babu/MiniGpt">⚡ MiniGpt (GPT-2 From Scratch)</a></h4>
-        <p>Custom GPT-2 (124M) built from scratch in PyTorch — Multi-Head Attention, Transformer Blocks, SSE streaming & OpenAI-compatible REST API.</p>
+        <p>Custom GPT-2 (124M) built from scratch in PyTorch — Multi-Head Attention, Transformer Blocks, SSE token streaming, and an OpenAI-compatible REST API.</p>
         <p>
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
           <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
@@ -109,67 +161,30 @@
         <p><a href="https://huggingface.co/spaces/mani-359/Custom-LLM" target="_blank">🤗 HuggingFace Space</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/MiniGpt" target="_blank">💻 Repository</a></p>
       </td>
       <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/llm-vision-lab">👁️ llm-vision-lab / RAG-Vision</a></h4>
-        <p>Interactive web platform and visual RAG system designed to explore attention mechanisms, vision embeddings, and multi-modal QA.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/Vision_LLM-7C3AED?style=flat-square" alt="Vision LLM" />
-        </p>
-        <p><a href="https://github.com/Manindra-babu/llm-vision-lab" target="_blank">💻 Repository</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/RAG-Vision" target="_blank">👁️ RAG-Vision</a></p>
-      </td>
-    </tr>
-    <!-- Row 3: Enterprise Analytics & Intelligence Apps -->
-    <tr>
-      <td width="50%" align="left" valign="top">
         <h4><a href="https://github.com/Manindra-babu/Realtime_analytics">📊 Realtime_analytics</a></h4>
-        <p>Enterprise-grade real-time retail analytics platform featuring Medallion Architecture (Bronze/Silver/Gold), dbt Core models, & Great Expectations data quality.</p>
+        <p>Enterprise-grade real-time retail analytics platform featuring a Medallion Architecture warehouse (Bronze/Silver/Gold), dbt Core transformations, and Great Expectations.</p>
         <p>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
           <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt Core" />
-          <img src="https://img.shields.io/badge/Medallion_Arch-00599C?style=flat-square" alt="Medallion" />
+          <img src="https://img.shields.io/badge/Medallion_Arch-00599C?style=flat-square" alt="Medallion Arch" />
         </p>
         <p><a href="https://github.com/Manindra-babu/Realtime_analytics" target="_blank">💻 Repository</a></p>
-      </td>
-      <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/BIS-Sahayak">🇮🇳 BIS-Sahayak</a></h4>
-        <p>Intelligent AI assistant platform engineered to simplify standards compliance, document intelligence, and citizen workflows.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/AI_Assistant-10B981?style=flat-square" alt="AI Assistant" />
-        </p>
-        <p><a href="https://github.com/Manindra-babu/BIS-Sahayak" target="_blank">💻 Repository</a></p>
-      </td>
-    </tr>
-    <!-- Row 4: Intelligent Applications -->
-    <tr>
-      <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/Decision-IQ">🎯 Decision-IQ</a></h4>
-        <p>AI-driven decision intelligence platform designed for structured decision analysis, scenario evaluation, and insight generation.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-        </p>
-        <p><a href="https://decision-iq-flame.vercel.app" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/Decision-IQ" target="_blank">💻 Repository</a></p>
-      </td>
-      <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/Floras-AI">🌸 Floras-AI</a></h4>
-        <p>Interactive AI platform designed for intuitive user interaction and intelligent, automated multi-step workflows.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-        </p>
-        <p><a href="https://floras-ai.vercel.app" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/Floras-AI" target="_blank">💻 Repository</a></p>
       </td>
     </tr>
   </table>
 
   <br/><br/>
 
-  <!-- 7. Social Badges Bar (Bottom) -->
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/output/github-snake-dark.svg" width="100%" />
+  </picture>
+
+  <br/><br/>
+
+  <!-- Social Badges Bar (Bottom) -->
   <a href="https://www.linkedin.com/in/manindra-chowdhary-198747333/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
