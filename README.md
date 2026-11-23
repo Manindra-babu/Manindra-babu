@@ -5,6 +5,15 @@
 
   <br/><br/>
 
+  <!-- 1. Theme-aware Header Banner (dark.svg / light.svg) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/light.svg">
+    <img alt="Manindra Babu's Profile Card" src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/dark.svg" width="100%" />
+  </picture>
+
+  <br/><br/>
+
   <!-- Profile Visitor Counter & Highlights -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Manindra-babu&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
