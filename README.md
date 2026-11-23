@@ -71,104 +71,99 @@
 
   <!-- Featured Projects & Flagship Systems -->
   <h3>🚀 Featured Projects & Systems</h3>
-
-    <table border="0" width="100%">
-    <!-- Row 1: Production Ecommerce & Career AI -->
-    <tr>
-      <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/Kintsu">🛡️ Kintsu (金継ぎ)</a></h4>
-        <p>Intelligent refund-decision layer for Shopify &amp; WooCommerce stores. Automates return disputes, damage inspection, and policy enforcement with rulebooks and visual condition checks.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&amp;logo=shopify&amp;logoColor=white" alt="Shopify" />
-          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite" />
-        </p>
-        <p><a href="https://kintsu-sj4b.onrender.com/" target="_blank">🌐 Live App</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/Kintsu" target="_blank">💻 Repository</a></p>
-      </td>
-      <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/Rolecraft">🎯 Rolecraft (ResumeIQ)</a></h4>
-        <p>Evidence-based AI resume intelligence platform with automated claim verification, public GitHub profile analysis, ATS skill-gap roadmaps, and in-place .docx layout preservation.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/OOXML-0078D4?style=flat-square" alt="OOXML" />
-          <img src="https://img.shields.io/badge/Claim_Validator-10B981?style=flat-square" alt="Claim Validator" />
-        </p>
-        <p><a href="https://rolecraft-eta.vercel.app" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/Rolecraft" target="_blank">💻 Repository</a></p>
-      </td>
-    </tr>
-    <!-- Row 2: Customer AI & Autonomous Research -->
-    <tr>
-      <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/ReplyMuse">💬 ReplyMuse</a></h4>
-        <p>Privacy-first AI review reply studio crafted for cafes, restaurants, clinics, and indie businesses. Crafts personalized, on-brand responses to stinging 1-star reviews in 3 seconds.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
-        </p>
-        <p><a href="https://replymuse.vercel.app" target="_blank">🌐 Live Application</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/ReplyMuse" target="_blank">💻 Repository</a></p>
-      </td>
-      <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/Research-Agent">🤖 Research-Agent</a></h4>
-        <p>Autonomous Multi-Agent Research System built with LangGraph, Groq API, DuckDuckGo Search, ChromaDB vector storage, and an interactive intelligence-gathering UI.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/LangGraph-1C2C5B?style=flat-square" alt="LangGraph" />
-          <img src="https://img.shields.io/badge/Groq-FF6C37?style=flat-square" alt="Groq" />
-          <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" alt="ChromaDB" />
-        </p>
-        <p><a href="https://github.com/Manindra-babu/Research-Agent" target="_blank">💻 Repository</a></p>
-      </td>
-    </tr>
-    <!-- Row 3: Trust & Safety, Verifiable RAG -->
-    <tr>
-      <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/Trust-IQ">⚖️ Trust-IQ</a></h4>
-        <p>Unified AI Trust &amp; Safety Workbench — Classical ML for evidence verification (FEVER), misinformation detection (LIAR), toxicity analysis (Jigsaw), and length-aware fairness.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Safety_Eval-EF4444?style=flat-square" alt="Safety Eval" />
-          <img src="https://img.shields.io/badge/ML_Benchmarking-8B5CF6?style=flat-square" alt="ML Benchmarking" />
-        </p>
-        <p><a href="https://github.com/Manindra-babu/Trust-IQ" target="_blank">💻 Repository</a></p>
-      </td>
-      <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/Knowledge-Base-RAG">🧠 Knowledge-Base-RAG (DocuMind)</a></h4>
-        <p>Intelligent RAG web application that lets you chat with your private documents (PDF, DOCX, TXT) with precise source citations using Groq LLaMA 3.3 and vector search.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
-          <img src="https://img.shields.io/badge/LLaMA_3.3-0467DF?style=flat-square" alt="LLaMA 3.3" />
-          <img src="https://img.shields.io/badge/Groq-FF6C37?style=flat-square" alt="Groq" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-        </p>
-        <p><a href="https://knowledge-base-rag-3lfy.vercel.app/" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/Knowledge-Base-RAG" target="_blank">💻 Repository</a></p>
-      </td>
-    </tr>
-    <!-- Row 4: Foundation Models & Real-Time Data Engineering -->
-    <tr>
-      <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/MiniGpt">⚡ MiniGpt (GPT-2 From Scratch)</a></h4>
-        <p>Custom GPT-2 (124M) built from scratch in PyTorch — Multi-Head Attention, Transformer Blocks, SSE token streaming, and an OpenAI-compatible REST API.</p>
-        <p>
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-        </p>
-        <p><a href="https://huggingface.co/spaces/mani-359/Custom-LLM" target="_blank">🤗 HuggingFace Space</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/MiniGpt" target="_blank">💻 Repository</a></p>
-      </td>
-      <td width="50%" align="left" valign="top">
-        <h4><a href="https://github.com/Manindra-babu/Realtime_analytics">📊 Realtime_analytics</a></h4>
-        <p>Enterprise-grade real-time retail analytics platform featuring a Medallion Architecture warehouse (Bronze/Silver/Gold), dbt Core transformations, and Great Expectations.</p>
-        <p>
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/dbt_Core-FF694B?style=flat-square&amp;logo=dbt&amp;logoColor=white" alt="dbt Core" />
-          <img src="https://img.shields.io/badge/Medallion_Arch-00599C?style=flat-square" alt="Medallion Arch" />
-        </p>
-        <p><a href="https://github.com/Manindra-babu/Realtime_analytics" target="_blank">💻 Repository</a></p>
-      </td>
-    </tr>
-  </table>
+<table border="0" width="100%">
+<tr>
+<td width="50%" align="left" valign="top">
+<h4><a href="https://github.com/Manindra-babu/Kintsu">🛡️ Kintsu (金継ぎ)</a></h4>
+<p>Intelligent refund-decision layer for Shopify &amp; WooCommerce stores. Automates return disputes, damage inspection, and policy enforcement with rulebooks and visual condition checks.</p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Shopify-95BF47?style=flat-square&amp;logo=shopify&amp;logoColor=white" alt="Shopify" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+</p>
+<p><a href="https://kintsu-sj4b.onrender.com/" target="_blank">🌐 Live App</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/Kintsu" target="_blank">💻 Repository</a></p>
+</td>
+<td width="50%" align="left" valign="top">
+<h4><a href="https://github.com/Manindra-babu/Rolecraft">🎯 Rolecraft (ResumeIQ)</a></h4>
+<p>Evidence-based AI resume intelligence platform with automated claim verification, public GitHub profile analysis, ATS skill-gap roadmaps, and in-place .docx layout preservation.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/OOXML-0078D4?style=flat-square" alt="OOXML" />
+<img src="https://img.shields.io/badge/Claim_Validator-10B981?style=flat-square" alt="Claim Validator" />
+</p>
+<p><a href="https://rolecraft-eta.vercel.app" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/Rolecraft" target="_blank">💻 Repository</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="left" valign="top">
+<h4><a href="https://github.com/Manindra-babu/ReplyMuse">💬 ReplyMuse</a></h4>
+<p>Privacy-first AI review reply studio crafted for cafes, restaurants, clinics, and indie businesses. Crafts personalized, on-brand responses to stinging 1-star reviews in 3 seconds.</p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+</p>
+<p><a href="https://replymuse.vercel.app" target="_blank">🌐 Live Application</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/ReplyMuse" target="_blank">💻 Repository</a></p>
+</td>
+<td width="50%" align="left" valign="top">
+<h4><a href="https://github.com/Manindra-babu/Research-Agent">🤖 Research-Agent</a></h4>
+<p>Autonomous Multi-Agent Research System built with LangGraph, Groq API, DuckDuckGo Search, ChromaDB vector storage, and an interactive intelligence-gathering UI.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/LangGraph-1C2C5B?style=flat-square" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Groq-FF6C37?style=flat-square" alt="Groq" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square" alt="ChromaDB" />
+</p>
+<p><a href="https://github.com/Manindra-babu/Research-Agent" target="_blank">💻 Repository</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="left" valign="top">
+<h4><a href="https://github.com/Manindra-babu/Trust-IQ">⚖️ Trust-IQ</a></h4>
+<p>Unified AI Trust &amp; Safety Workbench — Classical ML for evidence verification (FEVER), misinformation detection (LIAR), toxicity analysis (Jigsaw), and length-aware fairness.</p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Safety_Eval-EF4444?style=flat-square" alt="Safety Eval" />
+<img src="https://img.shields.io/badge/ML_Benchmarking-8B5CF6?style=flat-square" alt="ML Benchmarking" />
+</p>
+<p><a href="https://github.com/Manindra-babu/Trust-IQ" target="_blank">💻 Repository</a></p>
+</td>
+<td width="50%" align="left" valign="top">
+<h4><a href="https://github.com/Manindra-babu/Knowledge-Base-RAG">🧠 Knowledge-Base-RAG (DocuMind)</a></h4>
+<p>Intelligent RAG web application that lets you chat with your private documents (PDF, DOCX, TXT) with precise source citations using Groq LLaMA 3.3 and vector search.</p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/LLaMA_3.3-0467DF?style=flat-square" alt="LLaMA 3.3" />
+<img src="https://img.shields.io/badge/Groq-FF6C37?style=flat-square" alt="Groq" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+</p>
+<p><a href="https://knowledge-base-rag-3lfy.vercel.app/" target="_blank">🌐 Live Demo</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/Knowledge-Base-RAG" target="_blank">💻 Repository</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="left" valign="top">
+<h4><a href="https://github.com/Manindra-babu/MiniGpt">⚡ MiniGpt (GPT-2 From Scratch)</a></h4>
+<p>Custom GPT-2 (124M) built from scratch in PyTorch — Multi-Head Attention, Transformer Blocks, SSE token streaming, and an OpenAI-compatible REST API.</p>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+</p>
+<p><a href="https://huggingface.co/spaces/mani-359/Custom-LLM" target="_blank">🤗 HuggingFace Space</a> &nbsp;|&nbsp; <a href="https://github.com/Manindra-babu/MiniGpt" target="_blank">💻 Repository</a></p>
+</td>
+<td width="50%" align="left" valign="top">
+<h4><a href="https://github.com/Manindra-babu/Realtime_analytics">📊 Realtime_analytics</a></h4>
+<p>Enterprise-grade real-time retail analytics platform featuring a Medallion Architecture warehouse (Bronze/Silver/Gold), dbt Core transformations, and Great Expectations.</p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/dbt_Core-FF694B?style=flat-square&amp;logo=dbt&amp;logoColor=white" alt="dbt Core" />
+<img src="https://img.shields.io/badge/Medallion_Arch-00599C?style=flat-square" alt="Medallion Arch" />
+</p>
+<p><a href="https://github.com/Manindra-babu/Realtime_analytics" target="_blank">💻 Repository</a></p>
+</td>
+</tr>
+</table>
 
   <br/><br/>
 
