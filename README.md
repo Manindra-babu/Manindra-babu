@@ -14,11 +14,6 @@
 
   <br/><br/>
 
-  <!-- Pixel Art Developer Workstation Animation -->
-  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/coder.gif" alt="Late Night Coding Session - Pixel Art Animation" width="100%" />
-
-  <br/><br/>
-
   <!-- Profile Visitor Counter & Status Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Manindra-babu&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -165,6 +160,11 @@
 </td>
 </tr>
 </table>
+
+  <br/><br/>
+
+  <!-- Pixel Art Developer Workstation Animation -->
+  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/coder.gif" alt="Late Night Coding Session - Pixel Art Animation" width="100%" />
 
   <br/><br/>
 
