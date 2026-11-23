@@ -3,30 +3,63 @@
     <style>
       .swiss-name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 38px; font-weight: 800; fill: #f0f6fc; letter-spacing: -1px; }
       .swiss-role { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 13px; font-weight: 600; fill: #58a6ff; letter-spacing: 1px; text-transform: uppercase; }
-      .swiss-status { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 11px; font-weight: 500; fill: #7ee787; letter-spacing: 0.5px; }
       .col-h { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 10.5px; font-weight: 700; fill: #8b949e; letter-spacing: 1px; }
       .col-body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12.5px; fill: #c9d1d9; font-weight: 400; line-height: 1.4; }
       .hairline { stroke: #30363d; stroke-width: 1; }
-      .dot { fill: #238636; }
+      
+      .mouse-cable { stroke: #64748b; stroke-width: 1.5; fill: none; }
+      .mouse-body { fill: #f0f6fc; stroke: #cbd5e1; stroke-width: 1; }
+      .mouse-line { stroke: #94a3b8; stroke-width: 1; }
+      .mouse-wheel { fill: #38bdf8; }
+      .mouse-led { fill: #10b981; }
 
       @media (prefers-color-scheme: light) {
         .swiss-name { fill: #1f2328; }
         .swiss-role { fill: #0969da; }
-        .swiss-status { fill: #1a7f37; }
         .col-h { fill: #57606a; }
         .col-body { fill: #24292f; }
         .hairline { stroke: #d0d7de; }
-        .dot { fill: #1a7f37; }
+        .mouse-body { fill: #ffffff; stroke: #d0d7de; }
+        .mouse-cable { stroke: #8c959f; }
+        .mouse-line { stroke: #afb8c1; }
+        .mouse-wheel { fill: #0969da; }
       }
     </style>
   </defs>
 
-  <!-- Top bar: Role & Live Status -->
+  <!-- Top bar: Role Title -->
   <text x="0" y="24" class="swiss-role">AI Systems Architect &amp; Full-Stack Engineer</text>
-  <circle cx="820" cy="18" r="4" class="dot">
-    <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
-  </circle>
-  <text x="832" y="22" class="swiss-status">ONLINE</text>
+
+  <!-- Hanging Ergonomic Mouse (Cleanly positioned in top right, well above hairline) -->
+  <g transform-origin="850 0">
+    <animateTransform attributeName="transform" type="rotate" values="-3.5 850 0; 3.5 850 0; -3.5 850 0" dur="4s" repeatCount="indefinite" />
+    
+    <!-- Curved Cable from Top Boundary -->
+    <path d="M 850 0 C 850 6, 848 10, 850 16" class="mouse-cable" />
+    
+    <!-- Rubber Strain-Relief Boot -->
+    <rect x="848.5" y="14" width="3" height="4" rx="1" fill="#38bdf8" />
+
+    <!-- Sleek Ergonomic Mouse Body (22px wide x 32px tall, hangs from y: 16 to 48) -->
+    <g transform="translate(839, 17)">
+      <!-- Outer ergonomic shell with soft rounded corners -->
+      <rect x="0" y="0" width="22" height="32" rx="9" class="mouse-body" />
+      
+      <!-- Button separation lines -->
+      <line x1="11" y1="0" x2="11" y2="14" class="mouse-line" />
+      <path d="M 2 14 Q 11 15 20 14" class="mouse-line" />
+      
+      <!-- Illuminated Cyan Scroll Wheel -->
+      <rect x="9.5" y="3" width="3" height="7" rx="1.5" class="mouse-wheel">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
+      </rect>
+
+      <!-- Optical Sensor / Green Status LED at base -->
+      <circle cx="11" cy="25" r="1.8" class="mouse-led">
+        <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite" />
+      </circle>
+    </g>
+  </g>
 
   <!-- Main Name Header -->
   <text x="0" y="70" class="swiss-name">Manindra Babu</text>
