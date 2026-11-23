@@ -36,14 +36,10 @@
 
 <div align="center">
 
-  <!-- GitHub Metrics Grid: Streak Stats & Top Languages -->
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Manindra-babu&theme=tokyonight&border_radius=10&background=0A101F&border=0891B2" alt="GitHub Streak Stats" height="195" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manindra-babu&layout=compact&theme=tokyonight&border_radius=10&bg_color=0A101F&border_color=0891B2" alt="Top Languages" height="195" />
-  </p>
+  <!-- Modern Architectural Telemetry Strip -->
+  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/stats.svg" alt="Engineering Metrics &amp; Language Distribution" width="100%" />
 
-  <br/>
+  <br/><br/>
 
   <!-- Tech Stack & Core Competencies -->
   <h3>⚡ Tech Stack & Core Competencies</h3>
