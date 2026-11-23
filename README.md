@@ -177,11 +177,6 @@
 
   <br/><br/>
 
-  <!-- Pixel Art Developer Workstation Animation -->
-  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/coder.gif" alt="Late Night Coding Session - Pixel Art Animation" width="100%" />
-
-  <br/><br/>
-
   <!-- Social Badges Bar (Bottom) -->
   <a href="https://www.linkedin.com/in/manindra-chowdhary-198747333/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
