@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="100%" height="130" fill="none">
+  <defs>
+    <style>
+      .swiss-val { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 26px; font-weight: 800; fill: #f0f6fc; }
+      .swiss-lbl { font-family: ui-monospace, SFMono-Regular, monospace; font-size: 10px; font-weight: 700; fill: #8b949e; letter-spacing: 1px; text-transform: uppercase; }
+      .hairline { stroke: #30363d; stroke-width: 1; }
+      .legend-txt { font-family: ui-monospace, monospace; font-size: 11px; fill: #8b949e; }
+      .footnote-txt { font-family: ui-monospace, monospace; font-size: 11px; fill: #6e7681; }
+
+      @media (prefers-color-scheme: light) {
+        .swiss-val { fill: #1f2328; }
+        .swiss-lbl { fill: #57606a; }
+        .hairline { stroke: #d0d7de; }
+        .legend-txt { fill: #57606a; }
+        .footnote-txt { fill: #6e7681; }
+      }
+    </style>
+  </defs>
+
+  <!-- 4-Column Metric Strip -->
+  <!-- Col 1 -->
+  <g transform="translate(10, 24)">
+    <text x="0" y="0" class="swiss-val">960+</text>
+    <text x="0" y="22" class="swiss-lbl">Contributions</text>
+  </g>
+  <line x1="190" y1="8" x2="190" y2="52" class="hairline" />
+
+  <!-- Col 2 -->
+  <g transform="translate(210, 24)">
+    <text x="0" y="0" class="swiss-val">20+</text>
+    <text x="0" y="22" class="swiss-lbl">Public Repositories</text>
+  </g>
+  <line x1="410" y1="8" x2="410" y2="52" class="hairline" />
+
+  <!-- Col 3 -->
+  <g transform="translate(430, 24)">
+    <text x="0" y="0" class="swiss-val">94.5%</text>
+    <text x="0" y="22" class="swiss-lbl">TS / Python / JS Core</text>
+  </g>
+  <line x1="630" y1="8" x2="630" y2="52" class="hairline" />
+
+  <!-- Col 4 -->
+  <g transform="translate(650, 24)">
+    <text x="0" y="0" class="swiss-val">8 Flagships</text>
+    <text x="0" y="22" class="swiss-lbl">Production Architectures</text>
+  </g>
+
+  <!-- Horizontal Hairline -->
+  <line x1="0" y1="68" x2="900" y2="68" class="hairline" />
+
+  <!-- Language Spectrum Bar -->
+  <g transform="translate(0, 84)">
+    <rect x="0" y="0" width="900" height="6" rx="3" fill="#21262d" />
+    <rect x="0" y="0" width="333" height="6" rx="3" fill="#3178c6" />
+    <rect x="335" y="0" width="278" height="6" rx="0" fill="#3572a5" />
+    <rect x="615" y="0" width="239" height="6" rx="0" fill="#f1e05a" />
+    <rect x="856" y="0" width="44" height="6" rx="3" fill="#58a6ff" />
+  </g>
+
+  <!-- Legend labels -->
+  <g transform="translate(0, 114)" class="legend-txt">
+    <circle cx="5" cy="-4" r="4" fill="#3178c6" /><text x="14" y="0">TypeScript 37.0%</text>
+    <circle cx="215" cy="-4" r="4" fill="#3572a5" /><text x="224" y="0">Python 30.9%</text>
+    <circle cx="415" cy="-4" r="4" fill="#f1e05a" /><text x="424" y="0">JavaScript 26.6%</text>
+    <text x="710" y="0" class="footnote-txt">Verified Code Distribution</text>
+  </g>
+</svg>
