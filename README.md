@@ -1,16 +1,7 @@
 <div align="center">
 
-  <!-- Professional Tech Wave Greeting Header -->
-  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/wave-pro.svg" alt="Manindra Babu - Profile Greeting" width="100%" />
-
-  <br/><br/>
-
-  <!-- 1. Theme-aware Header Banner (dark.svg / light.svg) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/light.svg">
-    <img alt="Manindra Babu's Profile Card" src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/dark.svg" width="100%" />
-  </picture>
+  <!-- Modern Architectural Hero Header -->
+  <img src="https://raw.githubusercontent.com/Manindra-babu/Manindra-babu/main/hero.svg" alt="Manindra Babu - AI Systems Architect & Full-Stack Engineer" width="100%" />
 
   <br/><br/>
 
